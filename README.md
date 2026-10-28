@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *your name here*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm a college student interested in technology, programming, and cybersecurity. I'm currently learning more about software development and how to use tools like Git and GitHub
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
