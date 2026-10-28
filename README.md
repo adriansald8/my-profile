@@ -18,4 +18,3 @@ I'm a college student interested in technology, programming, and cybersecurity. 
 [GitHub](https://github.com/adriansald8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
